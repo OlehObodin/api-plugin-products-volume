@@ -1,4 +1,4 @@
-# api-plugin-example
+# api-plugin-products-volume
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-example.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-example)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/api-plugin-example.svg?style=svg)](https://circleci.com/gh/reactioncommerce/api-plugin-example)
@@ -6,7 +6,7 @@
 
 ## Summary
 
-This plugin provides a Boilerplate for creating an `npm` plugin for the [Reaction API](https://github.com/reactioncommerce/reaction).
+This plugin provides volume field for Reaction API
 
 The `Developer Certificate of Origin` and `License` sections can stay as they are, assuming `Apache 2` license is used (our preferred license). All other sections of this README should be updated to reflect your plugin.
 
