@@ -1,27 +1,27 @@
 {
-  "name": "@reactioncommerce/api-plugin-example",
+  "name": "@itleadopencommerce/api-plugin-products-volume",
   "description": "Boilerplate Example plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-example",
-  "url": "https://github.com/reactioncommerce/api-plugin-example",
+  "homepage": "https://github.com/OlehObodin/api-plugin-products-volume",
+  "url": "dev@it-lead.eu",
   "email": "engineering@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-example.git"
+    "url": "git+https://github.com/OlehObodin/api-plugin-products-volume.git"
   },
   "author": {
-    "name": "Reaction Commerce",
-    "email": "engineering@reactioncommerce.com",
-    "url": "https://reactioncommerce.com"
+    "name": "Oleh Obodin",
+    "email": "helgi.bergmann@outlook.com",
+    "url": "https://it-lead.eu"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-example/issues"
+    "url": "https://github.com/OlehObodin/api-plugin-products-volume/issues"
   },
   "sideEffects": false,
   "dependencies": {
