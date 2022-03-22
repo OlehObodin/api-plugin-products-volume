@@ -1,6 +1,6 @@
 {
   "name": "@itleadopencommerce/api-plugin-products-volume",
-  "description": "Boilerplate Example plugin for the Reaction API",
+  "description": "Add volume for product for the Reaction API",
   "version": "0.0.1",
   "main": "index.js",
   "type": "module",
@@ -8,14 +8,14 @@
     "node": ">=12.14.1"
   },
   "homepage": "https://github.com/OlehObodin/api-plugin-products-volume",
-  "url": "dev@it-lead.eu",
-  "email": "engineering@reactioncommerce.com",
+  "url": "https://github.com/OlehObodin/api-plugin-products-volume",
+  "email": "dev@it-lead.eu",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OlehObodin/api-plugin-products-volume.git"
   },
   "author": {
-    "name": "Oleh Obodin",
+    "name": "Reaction Commerce / Oleh Obodin",
     "email": "helgi.bergmann@outlook.com",
     "url": "https://it-lead.eu"
   },
