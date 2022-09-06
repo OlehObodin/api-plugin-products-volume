@@ -1,7 +1,7 @@
 {
   "name": "@itleadopencommerce/api-plugin-products-volume",
   "description": "Add volume for product for the Reaction API",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "index.js",
   "type": "module",
   "engines": {
